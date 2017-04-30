@@ -1,0 +1,16 @@
+{
+  "development": {
+    "url": "mongodb://127.0.0.1:27017/landingPageDev",
+    "nodemailer": {
+      "user": "testingtestlending@gmail.com",
+      "pass": "12345lending"
+    }
+  },
+  "production": {
+    "url": "mongodb://127.0.0.1:27017/landingPageProd",
+    "nodemailer": {
+      "user": "testingtestlending@gmail.com",
+      "pass": "12345lending"
+    }
+  }
+}
